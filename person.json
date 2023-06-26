@@ -1,0 +1,15 @@
+{
+  "firstname": "Will",
+  "gender": true,
+  "height": 180,
+  "email": "t6111221@gmail.com",
+  "city": {
+    "通訊地址": "台北",
+    "戶籍地址": "台北"
+  },
+  "phone": {
+    "市話": "02-22231912",
+    "行動電話": "0921-897510"
+  },
+  "cars": ["Cygnus", "BMW", "Audi"]
+}
